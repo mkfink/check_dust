@@ -7,6 +7,8 @@ Instructions:
 3. Press CTRL+Shift+D over an identified unqiue item. The keybind can be changed at the end of this check_dust.ahk. See https://www.autohotkey.com/docs/v1/Hotkeys.htm for details on the notation.
 4. A popup should display the item's name and dust value. It will disappear shortly.
 
+![alt text](https://github.com/mkfink/check_dust/blob/main/screenshot.png?raw=true)
+
 Known issues:
 * The dust reference I'm using contains every unique, including flasks and jewels that can't be disenchanted so it will give false values for those.
 
