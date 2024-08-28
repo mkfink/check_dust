@@ -2,10 +2,11 @@ A very simple way to check dust values of identified unique items in Path of Exi
 version 0.0.3
 
 Instructions:
-1. This script along with Dust.csv and CSV.ahk should be in the same directory
-2. Run check_dust.ahk (AHK must be installed)
-3. Press CTRL+Shift+D over an identified unqiue item. The keybind can be changed at the end of this check_dust.ahk. See https://www.autohotkey.com/docs/v1/Hotkeys.htm for details on the notation.
-4. A popup should display the item's name and dust value. It will disappear shortly.
+1. AutoHotkey v1 is required
+2. check_dust.ahk along with Dust.csv and CSV.ahk should be in the same directory
+4. Run check_dust.ahk
+5. Press CTRL+Shift+D over an identified unqiue item. The keybind can be changed at the end of this check_dust.ahk. See https://www.autohotkey.com/docs/v1/Hotkeys.htm for details on the notation.
+6. A popup should display the item's name and dust value. It will disappear shortly.
 
 ![alt text](https://github.com/mkfink/check_dust/blob/main/screenshot.png?raw=true)
 
