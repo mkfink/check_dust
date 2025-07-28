@@ -1,4 +1,4 @@
-**Note**: Dust values of items seem to have changed (most/all have gone up as far as I've seen) but poedb still shows the same dust values as in 3.25. As a result, the dust value returned is most likely an underestimate, but still on the same order of magnitude.
+**Note**: In 3.26, dust values of items seem to have changed (most/all have gone up as far as I've seen) but poedb still shows the same dust values as in 3.25. As a result, the dust value returned is most likely an underestimate, but still on the same order of magnitude.
 
 A very simple way to check dust values of identified unique items in Path of Exile 3.25 Settler's of Kalgur
 version 0.0.3
