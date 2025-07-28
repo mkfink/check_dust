@@ -1,3 +1,5 @@
+**Note**: Dust values of items seem to have changed (most/all have gone up as far as I've seen) but poedb still shows the same dust values as in 3.25. As a result, the dust value returned is most likely an underestimate, but still on the same order of magnitude.
+
 A very simple way to check dust values of identified unique items in Path of Exile 3.25 Settler's of Kalgur
 version 0.0.3
 
@@ -12,6 +14,7 @@ Instructions:
 
 Known issues:
 * The dust reference I'm using contains every unique, including flasks and jewels that can't be disenchanted so it will give false values for those.
+* Dust value varies by item level. This assumes an ilvl 84 item, so lower level items will give less dust.
 
 Thanks to:
 * https://github.com/hi5/CSV
